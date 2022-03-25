@@ -1,1 +1,1 @@
-# hm-evm-tokens
+# hm-evm-contracts
